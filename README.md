@@ -1,11 +1,15 @@
-#PHP Test in various topics
+# PHP Test in various topics
+
 ## Sytem requirements
 - PHP 8.1 CLI interpreter
-##How to run the test?
+
+## How to run the test?
 - Every topic will come with a `run.php` file that will execute the PHP script.
 - You will need to execute the `run.php` from command line to run the test
 - **Do not modify the Original code, just reuse the template and the concept of the original to optimized version**
-##Script argument
+
+
+## Script argument
 The `run.php` file will take 1 argument is mode test. The available mode tests are Orignal and Optimzied.
 
 So you need to pass in a mode to the `run.php` so it can run the target mode.
