@@ -20,8 +20,8 @@ The `Optimized` mode is there place you implement your code.
 You can use `Original` output to verify if you done the test correctly in output perspective.
 
 **Usage:**
-`php Abstraction/run.php original`
-`php Abstraction/run.php optimize`
+`php Topics/Abstraction/run.php original`
+`php Topics/Abstraction/run.php optimize`
 ## Topic detail
 Every topic describe the requirement inside the `run.php`
 ##Verification standards
